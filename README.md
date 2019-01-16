@@ -10,4 +10,4 @@ I hope this source will help you on your works!
 Let me know, if you need anything about source code.
 
 
-![Picture Stamper](https://github.com/oguzhankircali/picture-stamper/blob/master/Resource/picture-stamper-tutorial.gif)
+![Picture Stamper](/Resource/picture-stamper-tutorial.gif)
