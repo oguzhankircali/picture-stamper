@@ -89,6 +89,7 @@
     <Content Include="Resource\filigrator_v2.png" />
     <Content Include="Resource\heart.ico" />
     <Content Include="Resource\heart.png" />
+    <Content Include="Resource\picture-stamper-tutorial.gif" />
     <Content Include="Resource\picture-stamper.ico" />
     <Content Include="Resource\ticket.jpg" />
     <Content Include="Resource\ticket.png" />

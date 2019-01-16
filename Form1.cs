@@ -216,7 +216,7 @@ namespace Budala.PictureStamper
                     for (int i = 0; i < totalTicketCount; i++)
                     {
                         System.Drawing.Bitmap bmp = WaterMarkToImage(resourceImagePath, GetImageName(i));
-                        bmp.Save(Path.Combine(directoryPath, (GetImageName(i + 1) + ".jpg")), System.Drawing.Imaging.ImageFormat.Jpeg);
+                        bmp.Save(Path.Combine(directoryPath, (GetImageName(i + 1) + ".png")), System.Drawing.Imaging.ImageFormat.Png);
                         totalPublishedTicketCount += 1;
 
                         if (totalPublishedTicketCount % 10000 == 0)

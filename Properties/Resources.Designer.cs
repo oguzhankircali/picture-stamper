@@ -61,7 +61,7 @@ namespace Budala.PictureStamper.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Just do it!.
+        ///   Looks up a localized string similar to Stamp All Tickets.
         /// </summary>
         public static string btnJustDoIt {
             get {

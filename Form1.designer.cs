@@ -90,7 +90,7 @@
             this.btnJustDoIt.Name = "btnJustDoIt";
             this.btnJustDoIt.Size = new System.Drawing.Size(440, 66);
             this.btnJustDoIt.TabIndex = 4;
-            this.btnJustDoIt.Text = "Just do it!";
+            this.btnJustDoIt.Text = "Stamp All Tickets";
             this.btnJustDoIt.UseVisualStyleBackColor = true;
             this.btnJustDoIt.Click += new System.EventHandler(this.btnJustDoIt_Click);
             // 
@@ -237,7 +237,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1127, 508);
+            this.ClientSize = new System.Drawing.Size(908, 508);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.lnkDestinationLabel);
             this.Controls.Add(this.lblDestinationFolder);
