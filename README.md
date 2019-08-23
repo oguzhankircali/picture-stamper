@@ -1,3 +1,4 @@
+# Picture Stamper
 [![Build Status](https://travis-ci.org/oguzhankircali/picture-stamper.svg?branch=master)](https://travis-ci.org/oguzhankircali/picture-stamper)
 ### Rise of Picture Stamper
 I developed this tiny app to organise a kermis of my wife's school. 
@@ -9,6 +10,8 @@ If you need a watermark on picture, you can change this source code a little, it
 ### At the end
 I hope this source will help you on your works! 
 Let me know, if you need anything about source code.
+
+#pictureStamper #imageStamper #ticketStamper #stamperApp 
 
 
 ![Picture Stamper](/Resource/picture-stamper-tutorial.gif)
